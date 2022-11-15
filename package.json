@@ -1,0 +1,19 @@
+{
+  "name": "u2-rss-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LoveCany",
+  "license": "MIT",
+  "dependencies": {
+    "http": "^0.0.1-security",
+    "http-proxy": "^1.18.1",
+    "typescript": "^4.8.4"
+  },
+  "devDependencies": {
+    "@types/http-proxy": "^1.17.9"
+  }
+}
